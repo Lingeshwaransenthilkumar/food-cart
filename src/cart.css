@@ -1,0 +1,41 @@
+
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.cart-product{
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+    gap: 20px;
+    border: 1px solid #ccc;
+}
+
+.cart-product .img{
+    width: 100px;
+    height: 100px;
+}
+
+.cart-product .img img{
+    /* height and width will be adjusted with the parent position*/
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.cart-product-details h4{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+.amt{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h2{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,60 @@
+.product{
+    width: 200px;
+    height: 250px;
+    border: transparent;
+    padding: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    z-index: 1;
+}
+
+.product .img{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+}
+
+.product .img img{
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease;
+    object-fit: cover;
+
+}
+
+.product .img img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.product h3{
+    margin-top: 10px;
+    
+}
+
+.product p{
+    margin-top: 8px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #888;
+    
+
+}
+.product button{
+    margin-top: 5px;
+    padding: 5px 10px;
+    background-color: teal;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    transition: background 0.5s ease;
+}
+
+.product button:hover{
+    background: rgb(7, 93, 93);
+}
+
+
+.btnRemove{
+    background: tomato !important;
+}

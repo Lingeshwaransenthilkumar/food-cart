@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest": "No"
+    },
+    {
+        "id": 2,
+        "name": "Paper Roast Dosa",
+        "amt": "65",
+        "shop": "Sri Saivihar",
+        "ftype": "Veg",
+        "pic": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest": "No"
+    },
+    {
+        "id": 3,
+        "name": "Alfredo Pasta",
+        "amt": "185",
+        "shop": "LAKSHMI FOOD",
+        "ftype": "Veg",
+        "pic": "https://images.pexels.com/photos/27061057/pexels-photo-27061057/free-photo-of-pasta-and-bread-served-in-a-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest": "Yes"
+    },
+    {
+        "id": 4,
+        "name": "Chicken 65",
+        "amt": "220",
+        "shop": "Salem RR Briyani",
+        "ftype": "Non-Veg",
+        "pic": "https://as1.ftcdn.net/v2/jpg/07/90/70/52/1000_F_790705235_M3NKnzANwMiyDlytuvCQ09cm5W6dM8tt.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Biriyani",
+        "amt": "300",
+        "shop": "SS Hyderhabad",
+        "ftype": "Non-Veg",
+        "pic": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_1000/https://thebiryaniblogger.com/wp-content/uploads/2019/07/IMG_20180215_191732_HDR-1920x1000.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 6,
+        "name": "Paneer Butter Masala",
+        "amt": "150",
+        "shop": "Spice House",
+        "ftype": "Veg",
+        "pic": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1-736x981.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 7,
+        "name": "Veg Thali",
+        "amt": "100",
+        "shop": "Udupi Restaurant",
+        "ftype": "Veg",
+        "pic": "https://i.cdn.newsbytesapp.com/images/l83120230808134913.jpeg",
+        "latest": "Yes"
+    },
+    {
+        "id": 8,
+        "name": "Butter Chicken",
+        "amt": "210",
+        "shop": "Punjabi Dhaba",
+        "ftype": "Non-Veg",
+        "pic": "https://www.simplyrecipes.com/thmb/5ZBFQJLjKo5vJped7ZxNNS8u5pc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__01__Butter-Chicken-LEAD-1-f8a0cd09ea9442ce93651887f164db03.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 9,
+        "name": "Pav Bhaji",
+        "amt": "80",
+        "shop": "Mumbai Tadka",
+        "ftype": "Veg",
+        "pic": "https://assets.bonappetit.com/photos/63cb14735125107865c0fe8f/1:1/w_960,c_limit/012023-pav-bhaji-lede.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 10,
+        "name": "Grilled Sandwich",
+        "amt": "70",
+        "shop": "Cafe Coffee Day",
+        "ftype": "Veg",
+        "pic": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/grilled-cheese-sandwich-835x1024.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 11,
+        "name": "Fish Curry",
+        "amt": "200",
+        "shop": "Seafood Delight",
+        "ftype": "Non-Veg",
+        "pic": "https://myfoodstory.com/wp-content/uploads/2021/08/Spicy-Fish-Curry-1.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 12,
+        "name": "Veg Pulao",
+        "amt": "120",
+        "shop": "Green Leaf",
+        "ftype": "Veg",
+        "pic": "https://www.recipehub.in/wp-content/uploads/2019/09/veg-pulao9website.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 13,
+        "name": "Egg Fried Rice",
+        "amt": "150",
+        "shop": "Chinese Corner",
+        "ftype": "Non-Veg",
+        "pic": "https://schoolnightvegan.com/wp-content/uploads/2023/02/vegan-egg-fried-rice-15.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 14,
+        "name": "Paneer Tikka",
+        "amt": "180",
+        "shop": "Grill House",
+        "ftype": "Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QIk_sZjhIAEdfPDoqoV-OJufvhYwJdCHuw&s",
+        "latest": "No"
+    },
+    {
+        "id": 15,
+        "name": "Chicken Wings",
+        "amt": "250",
+        "shop": "Hot Wings",
+        "ftype": "Non-Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1GcVqpDArKT_8uf8T29In7nVRKirjBur3Q&s",
+        "latest": "Yes"
+    },
+    {
+        "id": 16,
+        "name": "Dal Makhani",
+        "amt": "130",
+        "shop": "North Indian Delight",
+        "ftype": "Veg",
+        "pic": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 17,
+        "name": "Prawn 65",
+        "amt": "180",
+        "shop": "Biryani House",
+        "ftype": "Non-Veg",
+        "pic": "https://catering.appansbiriyani.com/wp-content/uploads/2022/06/Prawns-65.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 18,
+        "name": "Masala Dosa",
+        "amt": "50",
+        "shop": "South Indian Tiffin",
+        "ftype": "Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgM6jW5atfIquTj-jvHFNEIcHHSkmQXROVg&s",
+        "latest": "No"
+    },
+    {
+        "id": 19,
+        "name": "Veg Burger",
+        "amt": "75",
+        "shop": "Burger King",
+        "ftype": "Veg",
+        "pic": "https://i.insider.com/5592c70769bedd5f58169e90?width=750&format=jpeg&auto=webp",
+        "latest": "Yes"
+    },
+    {
+        "id": 20,
+        "name": "Lamb Chops",
+        "amt": "350",
+        "shop": "Grill House",
+        "ftype": "Non-Veg",
+        "pic": "https://www.simplyrecipes.com/thmb/oAlJf5c1EQExU3iYIGTPRlmtF-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__02__Rosemary-Lamb-Chops-LEAD-2-4b70775441df47848c0b4352446bac77.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 21,
+        "name": "Margherita Pizza",
+        "amt": "299",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj8zRQDQNXB3NQKsGggzov24xdUbBfay5Bw&s",
+        "latest": "No"
+    },
+    {
+        "id": 22,
+        "name": "Chicken Shawarma",
+        "amt": "120",
+        "shop": "Middle East Feast",
+        "ftype": "Non-Veg",
+        "pic": "https://foxeslovelemons.com/wp-content/uploads/2023/06/Chicken-Shawarma-8.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 23,
+        "name": "Veggie Sandwich",
+        "amt": "90",
+        "shop": "Subway",
+        "ftype": "Veg",
+        "pic": "https://miro.medium.com/v2/resize:fit:1400/1*AAwhTzNqEXhGSt8AHegpww@2x.jpeg",
+        "latest": "No"
+    },
+    {
+        "id": 24,
+        "name": "Beef Steak",
+        "amt": "400",
+        "shop": "Steak House",
+        "ftype": "Non-Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHZt-9HOdx1zKYvus3ZNDb5hvpqFocq-YAQ&s",
+        "latest": "Yes"
+    },
+    {
+        "id": 25,
+        "name": "Cheese Burst Pizza",
+        "amt": "350",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://5.imimg.com/data5/PK/JL/MY-29540739/cheese-burst-pizza.png",
+        "latest": "No"
+    },
+    {
+        "id": 26,
+        "name": "Paneer Manchurian",
+        "amt": "160",
+        "shop": "Chinese Delight",
+        "ftype": "Veg",
+        "pic": "https://sixhungryfeet.com/wp-content/uploads/2022/08/Paneer-Manchurian-7-1.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 27,
+        "name": "Lamb Kebabs",
+        "amt": "320",
+        "shop": "Kebab Corner",
+        "ftype": "Non-Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKqQIEB8ZFWc8-HHBXxXxVcCAxNEv-E5xFw&s",
+        "latest": "No"
+    },
+    {
+        "id": 28,
+        "name": "Chocolate Cake",
+        "amt": "90",
+        "shop": "Bakery Delight",
+        "ftype": "Dessert",
+        "pic": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 29,
+        "name": "Jelly Fruit Salad",
+        "amt": "60",
+        "shop": "Healthy Bites",
+        "ftype": "Veg",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8dalXgO6XYMwS36MMey20V80gQTnO3ciFg&s",
+        "latest": "No"
+    },
+    {
+        "id": 30,
+        "name": "Fried Icecream",
+        "amt": "140",
+        "shop": "Fast Food Hub",
+        "ftype": "Veg",
+        "pic": "https://www.browneyedbaker.com/wp-content/uploads/2013/04/fried-ice-cream-1A-600.jpg",
+        "latest": "Yes"
+    }
+]
